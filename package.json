@@ -1,0 +1,11 @@
+{
+  "name": "yt-screenshot",
+  "version": "1.0.0",
+  "description": "Youtube screenshot capture",
+  "main": "index.js",
+  "author": "Avijeet Pandey",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  }
+}
